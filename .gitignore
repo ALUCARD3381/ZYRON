@@ -1,0 +1,8 @@
+/build/
+/build-asan/
+/build-ubsan/
+*.zytok
+*.zyron
+/build-sanitize/
+*.zyq
+*.zyqmodel

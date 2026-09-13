@@ -1,0 +1,6 @@
+O gato dorme.
+O gato corre.
+O cachorro corre.
+Olá mundo.
+O gato dorme.
+Olá mundo.
